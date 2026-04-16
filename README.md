@@ -1,4 +1,4 @@
-# Gestión de Calificaciones con Arreglos
+## Gestión de Calificaciones con Arreglos
 
 **Nombre:** Esmailin Carrasco
 **Matrícula:** 2025-0458
