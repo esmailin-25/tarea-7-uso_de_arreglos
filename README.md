@@ -1,14 +1,14 @@
-## Gestión de Calificaciones con Arreglos
+**Gestión de Calificaciones con Arreglos**
 
-**Nombre:** Esmailin Carrasco
-**Matrícula:** 2025-0458
+*Nombre:* Esmailin Carrasco
+*Matrícula:* 2025-0458
 
-## Descripción
+**Descripción**
 
 Este programa en C++ permite registrar las calificaciones de un grupo de estudiantes usando arreglos.
 Se ingresan 4 notas por estudiante, se calculan promedios y se muestran resultados generales.
 
-## Funcionamiento
+**Funcionamiento**
 
 * Se solicita la cantidad de estudiantes (máximo 20).
 * Se ingresan 4 calificaciones por cada estudiante (entre 0 y 100).
@@ -20,7 +20,7 @@ Se ingresan 4 notas por estudiante, se calculan promedios y se muestran resultad
   * La calificación más alta y más baja
   * Cantidad de aprobados y reprobados
 
-## Ejemplo de ejecución
+**Ejemplo de ejecución**
 
 Las siguientes imágenes muestran la ejecución del programa en consola:
 
@@ -29,7 +29,7 @@ Las siguientes imágenes muestran la ejecución del programa en consola:
 <img width="1835" height="641" alt="Captura de pantalla 2026-04-16 181614" src="https://github.com/user-attachments/assets/23a049ba-def4-4246-a1c4-49b7e3436dd9" />
 
 
-## Uso de arreglos
+**Uso de arreglos**
 
 Se utilizó un arreglo bidimensional para guardar las calificaciones, donde cada fila representa un estudiante y cada columna una nota.
 También se usó un arreglo para almacenar los promedios de cada estudiante.
