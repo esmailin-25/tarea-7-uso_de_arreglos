@@ -32,7 +32,9 @@ Las siguientes imágenes muestran la ejecución del programa en consola:
 
 <img width="1835" height="641" alt="Captura de pantalla 2026-04-16 181614" src="https://github.com/user-attachments/assets/23a049ba-def4-4246-a1c4-49b7e3436dd9" />
 
+*Aqui podemos ver que ocurre en el caso de ingresar una asignatura mayor a *100* o menor a *0**
 
+<img width="1919" height="954" alt="Captura de pantalla 2026-04-16 185421" src="https://github.com/user-attachments/assets/989d45d8-896e-4652-8df8-f0b11c004fd6" />
 
 
 **Uso de arreglos**
