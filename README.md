@@ -36,9 +36,10 @@ Las siguientes imágenes muestran la ejecución del programa en consola:
 
 *Aqui podemos ver que ocurre en el caso de ingresar una calificacion mayor a *100* o menor a *0**
 
-<img width="1919" height="954" alt="Captura de pantalla 2026-04-16 185421" src="https://github.com/user-attachments/assets/989d45d8-896e-4652-8df8-f0b11c004fd6" />
+<img width="1919" height="945" alt="Captura de pantalla 2026-04-16 194340" src="https://github.com/user-attachments/assets/2391b258-15e4-45a1-b541-5a4874680442" />
 
-*Se sigue repitiendo la opcion de ingresar la calificacion hasta que se ingrese una cantidad que cumpla con el rango establecido*
+
+*Aparece un mensaje que especifica que la cantidad debe ser de 0 a 100 y se sigue repitiendo la opcion de ingresar la calificacion hasta que se ingrese una cantidad que cumpla con el rango establecido*
 
 
 **Uso de arreglos**
